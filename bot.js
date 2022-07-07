@@ -1,5 +1,5 @@
 const { Telegraf, Markup } = require('telegraf');
-const bot = new Telegraf(process.env.BOT_TOKEN);
+const bot = new Telegraf('5487547588:AAFgxnav-SjV3F3eidTIcwldgkd3SI0UsK4');
 const axios = require('axios');
 const cc = require('currency-codes');
 
